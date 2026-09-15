@@ -19,8 +19,8 @@ Este repositório possui uma organização específica para desenvolvimento de n
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/ffabricio01/trabalho.git
+cd trabalho
 
 ```
 
